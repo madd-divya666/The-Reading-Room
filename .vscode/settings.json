@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "queue": "cpp",
+    "algorithm": "cpp",
+    "iterator": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp",
+    "iostream": "cpp"
+  }
+}

@@ -1,0 +1,46 @@
+@media (max-width: 1210px) {
+  .all-cards-section {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .banner-img {
+    width: 100%;
+    height: 300px;
+  }
+
+  .search-form input {
+    width: 200px;
+  }
+
+  .navbar-brand {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 1045px) {
+  .navbar {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 810px) {
+  .banner-img {
+    width: 100%;
+    height: 300px;
+  }
+}
+
+@media (max-width: 500px) {
+  .all-cards-section {
+    grid-template-columns: 1fr;
+  }
+
+  .container-fluid-main-page {
+    grid-template-columns: 1fr;
+  }
+
+  .banner-img {
+    width: 100%;
+    height: 200px;
+  }
+}
