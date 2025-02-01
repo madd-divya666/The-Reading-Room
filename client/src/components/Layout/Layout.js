@@ -27,7 +27,7 @@ Layout.defaultProps = {
   title: "THE READING ROOM",
   description: "mern stack project",
   keywords: "mern,react,node,mongodb",
-  author: "SHIVANSH SRIVASTAVA",
+  author: "DIVYA MADDHESHIA",
 };
 
 export default Layout;
